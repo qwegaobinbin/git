@@ -10,7 +10,7 @@ namespace gitDemo
     {
         static void Main(string[] args)
         {
-            var Demo = "Demo";
+            var Demo = "Demo:Hello";
         }
     }
 }
